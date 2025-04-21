@@ -8,11 +8,6 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -34,10 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Tip Calculator with Typescript, React.JS, Tailwindcss and React Hook Form](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Tip Calculator with Typescript, React.JS, Tailwindcss and React Hook Form](https://github.com/phantomgizmo/tip-calculator)
+- Live Site URL: [Live site](https://dulcet-bonbon-8494c8.netlify.app/)
 
 ### Built with
 
